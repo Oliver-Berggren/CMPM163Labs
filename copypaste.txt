@@ -1,0 +1,4 @@
+git add --all
+git commit -m "msg”
+git pull
+git push
