@@ -51,5 +51,5 @@ Video: https://drive.google.com/open?id=1E2D1Droz08mdIpIx60KIMOkzRNVtu0YW
 
 Mirror: https://youtu.be/ShAw4LdO9tw
 ~~~~
-A mod of the Unity kart demo. I created a custom car model with materials, a cactus model with materials, and changed the skybox to have two (NSEWBottom + top) custom materials.
+A mod of the Unity kart demo. I created a custom car model with materials, a cactus model with materials, changed the skybox to have two (NSEWBottom + top) custom materials, and implemented a particle effect to simulate sand hitting the camera.
 ~~~~
