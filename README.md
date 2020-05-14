@@ -56,7 +56,7 @@ A mod of the Unity kart demo. I created a custom car model with materials, a cac
 
 # Lab 6
 
-![](lab6/media/prereqs.png)
+![](lab6/Media/prereqs.png)
 DFN Point Light:
 Light is spherically emitted to a specified distance from the point light's position in 3D space. Similar to the light of a light bulb, distributes light evenly.
 
@@ -69,15 +69,15 @@ Light is emitted at a specified angle from the overhead skybox, dependent on the
 DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
 ~~~~
-![](lab6/media/render.png)
-![](lab6/media/ref_icedtea.png)
+![](lab6/Media/render.png)
+![](lab6/Media/ref_icedtea.png)
 ~~~~
 ~~~~
 Exhibit A. "Arizona Iced Tea" inspired beverage
 I used 3DS Max to model the original mesh, which was essentially a turbosmoothed cylinder. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of aluminum and a glossy paper. I then drew the art and normal details and exported the materials to Unity. The model features an Albedo, Metallic, and Normal map.
 ~~~~
 ~~~~
-![](lab6/media/ref_keyboard.jpg)
+![](lab6/Media/ref_keyboard.jpg)
 Exhibit B. "Korg MIDI Controller" inspired MIDI keyboard
 I used 3DS Max to model the original mesh, which was essentially a rectangular prism. Additionally, I subdivided the correct number of white and black keys on the piano. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of plastic and a dull rubber. I then drew the art itself and exported the materials to Unity. The model features an Albedo, Occlusion and two Normal map.
 ~~~~
