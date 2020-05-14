@@ -59,10 +59,13 @@ A mod of the Unity kart demo. I created a custom car model with materials, a cac
 ![](lab6/media/prereqs.png)
 DFN Point Light:
 Light is spherically emitted to a specified distance from the point light's position in 3D space. Similar to the light of a light bulb, distributes light evenly.
+
 DFN Spot Light:
 Light is conically emitted at a specified angle to a specified distance from the spot light's position in 3D space. Similar to the light of a spot light, distributes light in a beam.
+
 DFN Directional Light:
 Light is emitted at a specified angle from the overhead skybox, dependent on the directional light's rotation in 3D space. Similar to the light of the sun, distributes light across the world space.
+
 DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
 
