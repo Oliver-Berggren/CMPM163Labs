@@ -7,10 +7,10 @@ Video: https://drive.google.com/open?id=1pHjIfMwcSaKnZgh_8wliRBNV73j2GkwY
 
 Mirror: https://youtu.be/ZNoIP1VIKco
 
-![](media/Lab2_part2.png)
 ~~~~
 Part 2
 ~~~~
+![](media/Lab2_part2.png)
 
 # Lab 3
 Video: https://drive.google.com/open?id=176eJN8Fe1Zb71pAbHAuOw5bmYshQ8SVG
@@ -77,21 +77,23 @@ DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
 ~~~~
 
-![](lab6/Media/render.PNG)
 ~~~~
 Render
 ~~~~
+![](lab6/Media/render.PNG)
+
 The skybox was a simple pale pink texture, which I did to go for a lo-fi, vaporwave aesthetic. I simply created a pink texture and set it as the up/down/front/back/left/right.
 
-![](lab6/Media/ref_icedtea.png)
 ~~~~
 Exhibit A. "Arizona Iced Tea" inspired beverage
 ~~~~
+![](lab6/Media/ref_icedtea.png)
+
 I used 3DS Max to model the original mesh, which was essentially a turbosmoothed cylinder. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of aluminum and a glossy paper. I then drew the art and normal details and exported the materials to Unity. The model features an Albedo, Metallic, and Normal map.
 
-
-![](lab6/Media/ref_keyboard.jpg)
 ~~~~
 Exhibit B. "Korg MIDI Controller" inspired MIDI keyboard
 ~~~~
+![](lab6/Media/ref_keyboard.jpg)
+
 I used 3DS Max to model the original mesh, which was essentially a rectangular prism. Additionally, I subdivided the correct number of white and black keys on the piano. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of plastic and a dull rubber. I then drew the art itself and exported the materials to Unity. The model features an Albedo, Occlusion and two Normal maps.
