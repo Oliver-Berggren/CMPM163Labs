@@ -56,12 +56,6 @@ A mod of the Unity kart demo. I created a custom car model with materials, a cac
 ~~~~
 
 # Lab 6
-
-~~~~
-Scene view
-~~~~
-![](lab6/Media/prereqs.PNG)
-
 ~~~~
 Definitions:
 ~~~~
@@ -76,6 +70,11 @@ Light is emitted at a specified angle from the overhead skybox, dependent on the
 
 DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
+
+~~~~
+Scene view
+~~~~
+![](lab6/Media/prereqs.PNG)
 
 ~~~~
 Render
