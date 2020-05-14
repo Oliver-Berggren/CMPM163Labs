@@ -64,6 +64,7 @@ Scene view
 
 ~~~~
 Definitions:
+~~~~
 DFN Point Light:
 Light is spherically emitted to a specified distance from the point light's position in 3D space. Similar to the light of a light bulb, distributes light evenly.
 
@@ -75,7 +76,6 @@ Light is emitted at a specified angle from the overhead skybox, dependent on the
 
 DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
-~~~~
 
 ~~~~
 Render
