@@ -57,10 +57,10 @@ A mod of the Unity kart demo. I created a custom car model with materials, a cac
 
 # Lab 6
 
-![](lab6/Media/prereqs.PNG)
 ~~~~
 Scene view
 ~~~~
+![](lab6/Media/prereqs.PNG)
 
 ~~~~
 Definitions:
