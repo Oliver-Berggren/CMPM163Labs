@@ -56,7 +56,7 @@ A mod of the Unity kart demo. I created a custom car model with materials, a cac
 
 # Lab 6
 
-![](lab6/Media/prereqs.png)
+![](lab6/Media/prereqs.PNG)
 DFN Point Light:
 Light is spherically emitted to a specified distance from the point light's position in 3D space. Similar to the light of a light bulb, distributes light evenly.
 
@@ -69,7 +69,7 @@ Light is emitted at a specified angle from the overhead skybox, dependent on the
 DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
 ~~~~
-![](lab6/Media/render.png)
+![](lab6/Media/render.PNG)
 ~~~~
 The skybox was a simple pale pink texture, which I did to go for a lo-fi, vaporwave aesthetic. I simply created a pink texture and set it as the up/down/front/back/left/right.
 
