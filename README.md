@@ -7,10 +7,10 @@ Video: https://drive.google.com/open?id=1pHjIfMwcSaKnZgh_8wliRBNV73j2GkwY
 
 Mirror: https://youtu.be/ZNoIP1VIKco
 
-Part 2
-
 ![](media/Lab2_part2.png)
-
+~~~~
+Part 2
+~~~~
 
 # Lab 3
 Video: https://drive.google.com/open?id=176eJN8Fe1Zb71pAbHAuOw5bmYshQ8SVG
@@ -71,9 +71,10 @@ DFN Area Light:
 Light is rectangularly emitted at a specified angle to a specified distance from the area light's position in 3D space. Similar to a square overhead light.
 
 ![](lab6/Media/render.PNG)
-
+~~~~
+Render
+~~~~
 The skybox was a simple pale pink texture, which I did to go for a lo-fi, vaporwave aesthetic. I simply created a pink texture and set it as the up/down/front/back/left/right.
-
 
 ![](lab6/Media/ref_icedtea.png)
 ~~~~
