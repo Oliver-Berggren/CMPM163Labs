@@ -23,9 +23,9 @@ West: custom shader, interpolates between brown and green
 ~~~~
 
 # Lab 4
-Video: https://drive.google.com/open?id=176eJN8Fe1Zb71pAbHAuOw5bmYshQ8SVG
+Video: https://drive.google.com/open?id=17EWkCJyN-X6XrQUEj3OytOgIXZQw0WEF
 
-Mirror: https://youtu.be/yGHW-Fe2QT0
+Mirror: https://youtu.be/2GOWdllYEuI
 ~~~~
 Top left: 
 Custom shader, created per lab instructions
