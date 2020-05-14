@@ -71,6 +71,8 @@ Light is rectangularly emitted at a specified angle to a specified distance from
 ~~~~
 ![](lab6/Media/render.png)
 ~~~~
+The skybox was a simple pale pink texture, which I did to go for a lo-fi, vaporwave aesthetic. I simply created a pink texture and set it as the up/down/front/back/left/right.
+
 ~~~~
 ![](lab6/Media/ref_icedtea.png)
 
@@ -83,4 +85,4 @@ I used 3DS Max to model the original mesh, which was essentially a turbosmoothed
 
 Exhibit B. "Korg MIDI Controller" inspired MIDI keyboard
 ~~~~
-I used 3DS Max to model the original mesh, which was essentially a rectangular prism. Additionally, I subdivided the correct number of white and black keys on the piano. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of plastic and a dull rubber. I then drew the art itself and exported the materials to Unity. The model features an Albedo, Occlusion and two Normal map.
+I used 3DS Max to model the original mesh, which was essentially a rectangular prism. Additionally, I subdivided the correct number of white and black keys on the piano. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of plastic and a dull rubber. I then drew the art itself and exported the materials to Unity. The model features an Albedo, Occlusion and two Normal maps.
