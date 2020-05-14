@@ -58,6 +58,13 @@ A mod of the Unity kart demo. I created a custom car model with materials, a cac
 # Lab 6
 
 ![](lab6/Media/prereqs.PNG)
+~~~~
+Unity project
+~~~~
+
+~~~~
+Definitions:
+~~~~
 DFN Point Light:
 Light is spherically emitted to a specified distance from the point light's position in 3D space. Similar to the light of a light bulb, distributes light evenly.
 
