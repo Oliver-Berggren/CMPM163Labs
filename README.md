@@ -103,4 +103,4 @@ Video: https://drive.google.com/open?id=1qP5TOvQZ3ZpNsPQlDZNVOFxtZP0Xn55I
 
 Mirror: https://youtu.be/GqwfDf3N1QM
 
-An implementation of vertex shaders in UE4: one vertex shader for terrain, and the other for water. The waves' strength, speed, and color is adjustable. The archipelago's strength, speed, and color is adjustable too. I custom modeled a lighthouse in 3DS Max, painted it in substance painter, and exported it to Unity. I also created a morning skybox in PaintDotNet, and created a custom cubemap to make it visible in-game.
+I finished my lab before my partner. An implementation of vertex shaders in UE4: one vertex shader for terrain, and the other for water. The waves' strength, speed, and color is adjustable. The archipelago's strength, speed, and color is adjustable too. I custom modeled a lighthouse in 3DS Max, painted it in substance painter, and exported it to Unity. I also created a morning skybox in PaintDotNet, and created a custom cubemap to make it visible in-game.
