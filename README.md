@@ -96,3 +96,11 @@ Exhibit B. "Korg MIDI Controller" inspired MIDI keyboard
 ![](lab6/Media/ref_keyboard.jpg)
 
 I used 3DS Max to model the original mesh, which was essentially a rectangular prism. Additionally, I subdivided the correct number of white and black keys on the piano. I then exported the mesh to Substance Painter, where I created masks to distinguish different materials on the mesh: two kinds of plastic and a dull rubber. I then drew the art itself and exported the materials to Unity. The model features an Albedo, Occlusion and two Normal maps.
+
+# Lab 7
+
+Video: https://drive.google.com/open?id=1qP5TOvQZ3ZpNsPQlDZNVOFxtZP0Xn55I
+
+Mirror: https://youtu.be/GqwfDf3N1QM
+
+An implementation of vertex shaders in UE4: one vertex shader for terrain, and the other for water. The waves' strength, speed, and color is adjustable. The archipelago's strength, speed, and color is adjustable too. I custom modeled a lighthouse in 3DS Max, painted it in substance painter, and exported it to Unity. I also created a morning skybox in PaintDotNet, and created a custom cubemap to make it visible in-game.
