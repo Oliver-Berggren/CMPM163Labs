@@ -104,3 +104,19 @@ Video: https://drive.google.com/open?id=1qP5TOvQZ3ZpNsPQlDZNVOFxtZP0Xn55I
 Mirror: https://youtu.be/GqwfDf3N1QM
 
 I finished my lab before my partner. An implementation of vertex shaders in UE4: one vertex shader for terrain, and the other for water. The waves' strength, speed, and color is adjustable. The archipelago's strength, speed, and color is adjustable too. I custom modeled a lighthouse in 3DS Max, painted it in substance painter, and exported it to Unity. I also created a morning skybox in PaintDotNet, and created a custom cubemap to make it visible in-game.
+
+# Lab 8
+
+Video: https://youtu.be/RIBVp_JyGQc
+
+A Dr. Seuss inspired cityscape in Unity, which is comprised of 13 different buildings I modeled. To further sophisticate what I learned from the tutorial, I implemented different possibilities of light and dark windows. Although I wanted to create the bendy, curvy building geometry of his books, I do not have the sculpting tools to do so. Instead, I opted for the geometry of my home city, Tijuana and Dr. Seuss's wild colors.
+
+Partner:
+~~~
+Name: Toan Le
+Which part did they do? Part2 (THREE.js)
+Which part of a tutorial did your partner find most challenging? I found the generation step a bit confusing.
+Which part of a tutorial did your partner find most interesting? Last part is most interesting
+
+My partner and I did not work together. I did Part One, they did Part Two.
+~~~
