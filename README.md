@@ -111,12 +111,10 @@ Video: https://youtu.be/RIBVp_JyGQc
 
 A Dr. Seuss inspired cityscape in Unity, which is comprised of 13 different buildings I modeled. To further sophisticate what I learned from the tutorial, I implemented different possibilities of light and dark windows. Although I wanted to create the bendy, curvy building geometry of his books, I do not have the sculpting tools to do so. Instead, I opted for the geometry of my home city, Tijuana and Dr. Seuss's wild colors.
 
-Partner:
+My partner and I did not work together. I did Part One, they did Part Two.
 ~~~
 Name: Toan Le
 Which part did they do? Part2 (THREE.js)
 Which part of a tutorial did your partner find most challenging? I found the generation step a bit confusing.
 Which part of a tutorial did your partner find most interesting? Last part is most interesting
-
-My partner and I did not work together. I did Part One, they did Part Two.
 ~~~
